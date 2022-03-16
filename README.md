@@ -1,17 +1,7 @@
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=piperliu&show_icons=true&theme=city_lights" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-I'm Piper Liu from Tianjin University, China. I currently study in  College of Management and Economics as a graduate student, and my research group focus on **using system engineering to solve problems of social systems**, such as city planning and traffic calculation.
-
-- 🔭 I’m currently working on **Reinforcement Learning and bus holding problems**.
-- 🌱 I’m currently learning **multi-agent implementation in [thu-ml/tianshou](https://github.com/thu-ml/tianshou)** for research task, and simple **javascript/typescript** for fun.
-- 👯 I’m looking to collaborate on **javascript/typescript study group**, because I love this tech which interacts with people so much.
-- 📫 Email me [piperliu@qq.com](piperliu@qq.com) any time.
-<!-- - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
-### More fun facts 😉
-- ‍👾 Although I got my first degree in management and is studing manangement for master degree, **I found that I have a deep affection towards Computer Science and technology.** Check this [link](https://github.com/PiperLiu/CS-courses-notes) to see how I study and what I've gained.
-- 😳 I was shy boy, but **I've been always trying to break out of my shell**. When I was recording [my first for video for bilibili](https://www.bilibili.com/video/BV1zb411y7GJ), my voice shaked. Now I found I fell in love with sharing, see more with [my media matrix](./media_matrix.md).
-- 🤠 In the first three years of college, I wanted to try everything and have everything. **But now I just wanna be myself and be truly happy.**
+- 🎓 Pursuing a Master Degree in Tianjin University, China.
+- 🔬 Researching on a combination of Deep Reinforcement Learning, Combinatorial Optimization, Machine Learning & Social Managemet Problems.
+- 🎈 Considering of being a software engineer / developer as a career plan.
+- 👨‍💻 A Lifelong learner of Computer Science, a follower of open source community and a user of C++ 11, Python 3, JavaScript/TypeScript, Scala 2.11.
+- 🏡 Homepage at [piperliu.xyz](https://piperliu.xyz).
