@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=piperliu&show_icons=true&theme=city_lights" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=piperliu" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 - 🎓 Pursuing a Master Degree in Tianjin University, China.
 - 🔬 Researching on a combination of Deep Reinforcement Learning, Combinatorial Optimization, Machine Learning & Social Managemet Problems.
